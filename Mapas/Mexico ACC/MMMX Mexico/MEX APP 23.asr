@@ -1,0 +1,71 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
+SECTORTITLE:MMFR 2103.sct
+Fixes:DARAN:name
+Fixes:DARAN:symbol
+Fixes:ENAGA:name
+Fixes:ENAGA:symbol
+Fixes:ESPOS:name
+Fixes:ESPOS:symbol
+Fixes:ESTAR:symbol
+Fixes:KOZLO:name
+Fixes:KOZLO:symbol
+Fixes:LARLO:name
+Fixes:LARLO:symbol
+Fixes:MX600:symbol
+Fixes:MX602:symbol
+Fixes:MX603:symbol
+Fixes:MX605:symbol
+Fixes:MX610:symbol
+Fixes:MX611:symbol
+Fixes:MX615:symbol
+Fixes:MX616:symbol
+Fixes:MX617:symbol
+Fixes:MX639:symbol
+Fixes:MX640:symbol
+Fixes:NUGIR:symbol
+Fixes:OTOSA:symbol
+Fixes:PITEL:symbol
+Fixes:SESTA:name
+Fixes:SESTA:symbol
+Geo:(MVA) MEX:
+Geo:(PMS) MEX 23:
+Geo:(TMA) MEX:
+Regions:Aerovias Controladas ACC MEX:polygon
+Regions:Circulos:polygon
+Regions:TMA-BJX:polygon
+Regions:TMA-MEX:polygon
+Regions:TMA-MLM:polygon
+Regions:TMA-QET:polygon
+Regions:TMA-VER:polygon
+Stars:MMMX ILS Z 23L:
+Stars:MMMX RNAV DARAN1B (23):
+Stars:MMMX RNAV ENAGA1B (23):
+Stars:MMMX RNAV ESPOS1B (23):
+Stars:MMMX RNAV LARLO1B (23):
+VORs:CUA:symbol
+VORs:MEX:symbol
+VORs:MLM:symbol
+VORs:PBC:symbol
+VORs:PTJ:symbol
+VORs:QET:symbol
+VORs:SLM:symbol
+VORs:TAM:symbol
+VORs:TEQ:symbol
+VORs:TLC:symbol
+VORs:VER:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:18.574074:-101.457126:20.439655:-96.547017

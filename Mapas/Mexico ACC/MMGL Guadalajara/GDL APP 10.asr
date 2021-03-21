@@ -1,0 +1,125 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
+SECTORTITLE:MMFR 2103.sct
+Fixes:ATOXO:symbol
+Fixes:BRUJA:symbol
+Fixes:DATSO:name
+Fixes:DATSO:symbol
+Fixes:DULNO:name
+Fixes:DULNO:symbol
+Fixes:EMEXO:symbol
+Fixes:EMIRI:name
+Fixes:EMIRI:symbol
+Fixes:ERDAN:symbol
+Fixes:FEISE:name
+Fixes:FEISE:symbol
+Fixes:GL405:symbol
+Fixes:GL406:symbol
+Fixes:GL410:symbol
+Fixes:GL411:symbol
+Fixes:GL420:symbol
+Fixes:GL421:symbol
+Fixes:GL430:symbol
+Fixes:GL501:symbol
+Fixes:GL502:symbol
+Fixes:GL512:symbol
+Fixes:GL513:symbol
+Fixes:GL514:symbol
+Fixes:GL520:symbol
+Fixes:GL522:symbol
+Fixes:GL523:symbol
+Fixes:GL524:symbol
+Fixes:GL530:symbol
+Fixes:GL531:symbol
+Fixes:GL532:symbol
+Fixes:GL534:symbol
+Fixes:GL535:symbol
+Fixes:GL540:symbol
+Fixes:IKBAN:symbol
+Fixes:KELVA:name
+Fixes:KELVA:symbol
+Fixes:LIPEP:name
+Fixes:LIPEP:symbol
+Fixes:LIVRI:name
+Fixes:LIVRI:symbol
+Fixes:LONKU:name
+Fixes:LONKU:symbol
+Fixes:LONVA:name
+Fixes:LONVA:symbol
+Fixes:MODEX:name
+Fixes:MODEX:symbol
+Fixes:NOTUP:name
+Fixes:NOTUP:symbol
+Fixes:OTOKI:name
+Fixes:OTOKI:symbol
+Fixes:SEDEM:name
+Fixes:SEDEM:symbol
+Fixes:ULOGA:symbol
+Fixes:ULUVO:name
+Fixes:ULUVO:symbol
+Fixes:USBIM:name
+Fixes:USBIM:symbol
+Fixes:VISDA:symbol
+Free Text:MMGL MVAS\100:freetext
+Free Text:MMGL MVAS\100:freetext
+Free Text:MMGL MVAS\110:freetext
+Free Text:MMGL MVAS\110:freetext
+Free Text:MMGL MVAS\120:freetext
+Free Text:MMGL MVAS\120:freetext
+Free Text:MMGL MVAS\160:freetext
+Free Text:MMGL MVAS\75:freetext
+Free Text:MMGL MVAS\75:freetext
+Free Text:MMGL MVAS\80:freetext
+Free Text:MMGL MVAS\85:freetext
+Free Text:MMGL MVAS\90:freetext
+Free Text:MMGL MVAS\92:freetext
+Geo:(MVA) GDL:
+Geo:(PMS) GDL 10:
+Geo:(TMA) BJX:
+Geo:(TMA) GDL:
+Geo:(TMA) MLM:
+Geo:(TMA) PVR:
+Geo:(TMA) ZLO:
+Geo:Linea_De_Costa:
+Regions:TMA-BJX:polygon
+Regions:TMA-GDL:polygon
+Regions:TMA-MLM:polygon
+Regions:TMA-PVR:polygon
+Regions:TMA-ZLO:polygon
+Sids:MMGL RNAV EMIRI1A (10):
+Sids:MMGL RNAV FEISE1A (10):
+Sids:MMGL RNAV KELVA1A (10):
+Sids:MMGL RNAV LONKU1D (10):
+Sids:MMGL RNAV NOTUP1D (10):
+Sids:MMGL RNAV OTOKI1A (10):
+Sids:MMGL RNAV SEDEM1A (10):
+Stars:MMGL ILS Z (10):
+Stars:MMGL RNAV LIPE1F (10):
+Stars:MMGL RNAV LIVRI1C (10):
+Stars:MMGL RNAV LONVA1C (10):
+Stars:MMGL RNAV MODEX1A (10):
+Stars:MMGL RNAV ULUCO1A (10):
+Stars:MMGL RNAV USBIM1C (10):
+VORs:AGU:symbol
+VORs:BJX:symbol
+VORs:COL:symbol
+VORs:GDL:symbol
+VORs:MLM:symbol
+VORs:PVR:symbol
+VORs:ZAP:symbol
+VORs:ZLO:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:19.616324:-105.651276:21.481906:-100.741164

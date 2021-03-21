@@ -1,0 +1,304 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
+SECTORTITLE:MMFR 2103.sct
+ARTCC high boundary:MMEX:
+ARTCC high boundary:MMID:
+ARTCC high boundary:MMTY:
+ARTCC high boundary:MMZT:
+ARTCC low boundary:MMID1:
+ARTCC low boundary:MMID5:
+ARTCC low boundary:MMID6:
+ARTCC low boundary:MMTY1:
+ARTCC low boundary:MMTY2:
+ARTCC low boundary:MMTY4:
+ARTCC low boundary:MMZT3:
+ARTCC low boundary:MMZT4:
+ARTCC low boundary:MMZT5:
+ARTCC low boundary:MMZT6:
+ARTCC low boundary:MMZT7:
+Free Text:SECTORES\SEC 1 MHTG - FREQ.-125.800:freetext
+Free Text:SECTORES\SEC 1 MID - FREQ.-128.300:freetext
+Free Text:SECTORES\SEC 1 MTY - FREQ.-124.500:freetext
+Free Text:SECTORES\SEC 1 MUFH - FREQ.-124.550:freetext
+Free Text:SECTORES\SEC 5 MZT - FREQ.-124.200:freetext
+Free Text:SECTORES\SEC A ZHU - FREQ.-126.950:freetext
+Geo:(TMA) MEX:
+Geo:Linea_De_Costa:
+High airways:J1:line
+High airways:J13:line
+High airways:J141:line
+High airways:J177:line
+High airways:J21:line
+High airways:J25:line
+High airways:J26:line
+High airways:J29:line
+High airways:J42:line
+High airways:J92:line
+High airways:J93:line
+High airways:UA552:line
+High airways:UA758:line
+High airways:UA766:line
+High airways:UA770:line
+High airways:UB646:line
+High airways:UB753:line
+High airways:UB764:line
+High airways:UB879:line
+High airways:UB881:line
+High airways:UG521:line
+High airways:UG765:line
+High airways:UJ10:line
+High airways:UJ102:line
+High airways:UJ11:line
+High airways:UJ11E:line
+High airways:UJ12:line
+High airways:UJ12S:line
+High airways:UJ13:line
+High airways:UJ14:line
+High airways:UJ14N:line
+High airways:UJ14S:line
+High airways:UJ15:line
+High airways:UJ15E:line
+High airways:UJ16:line
+High airways:UJ16W:line
+High airways:UJ17:line
+High airways:UJ18:line
+High airways:UJ19:line
+High airways:UJ1E:line
+High airways:UJ2:line
+High airways:UJ20:line
+High airways:UJ21E:line
+High airways:UJ21W:line
+High airways:UJ23:line
+High airways:UJ24:line
+High airways:UJ24S:line
+High airways:UJ25:line
+High airways:UJ26:line
+High airways:UJ27:line
+High airways:UJ28:line
+High airways:UJ3:line
+High airways:UJ30:line
+High airways:UJ31:line
+High airways:UJ32:line
+High airways:UJ33:line
+High airways:UJ34:line
+High airways:UJ35:line
+High airways:UJ36:line
+High airways:UJ37:line
+High airways:UJ38:line
+High airways:UJ39:line
+High airways:UJ4:line
+High airways:UJ40:line
+High airways:UJ41:line
+High airways:UJ45:line
+High airways:UJ46:line
+High airways:UJ47:line
+High airways:UJ48:line
+High airways:UJ5:line
+High airways:UJ50:line
+High airways:UJ51:line
+High airways:UJ52:line
+High airways:UJ53:line
+High airways:UJ54:line
+High airways:UJ55:line
+High airways:UJ6:line
+High airways:UJ61:line
+High airways:UJ63:line
+High airways:UJ64:line
+High airways:UJ65:line
+High airways:UJ68:line
+High airways:UJ69:line
+High airways:UJ7:line
+High airways:UJ70:line
+High airways:UJ71:line
+High airways:UJ8:line
+High airways:UJ81:line
+High airways:UJ83:line
+High airways:UJ84:line
+High airways:UJ9:line
+High airways:UJ95:line
+High airways:UL207:line
+High airways:UL208:line
+High airways:UL209:line
+High airways:UL214:line
+High airways:UL308:line
+High airways:UL312:line
+High airways:UL318:line
+High airways:UL333:line
+High airways:UL344:line
+High airways:UL423:line
+High airways:UL577:line
+High airways:UL655:line
+High airways:UL674:line
+High airways:UM206:line
+High airways:UM208:line
+High airways:UM209:line
+High airways:UM215:line
+High airways:UM219:line
+High airways:UM345:line
+High airways:UM346:line
+High airways:UM575:line
+High airways:UM580:line
+High airways:UM782:line
+High airways:UM787:line
+High airways:UQ101:line
+High airways:UQ102:line
+High airways:UQ103:line
+High airways:UQ104:line
+High airways:UR506:line
+High airways:UR522:line
+High airways:UT1:line
+High airways:UT10:line
+High airways:UT11:line
+High airways:UT12:line
+High airways:UT14:line
+High airways:UT15:line
+High airways:UT16:line
+High airways:UT17:line
+High airways:UT18:line
+High airways:UT19:line
+High airways:UT2:line
+High airways:UT20:line
+High airways:UT22:line
+High airways:UT23:line
+High airways:UT24:line
+High airways:UT25:line
+High airways:UT26:line
+High airways:UT27:line
+High airways:UT28:line
+High airways:UT29:line
+High airways:UT3:line
+High airways:UT30:line
+High airways:UT31:line
+High airways:UT34:line
+High airways:UT35:line
+High airways:UT37:line
+High airways:UT4:line
+High airways:UT41:line
+High airways:UT42:line
+High airways:UT43:line
+High airways:UT44:line
+High airways:UT45:line
+High airways:UT46:line
+High airways:UT5:line
+High airways:UT50:line
+High airways:UT6:line
+High airways:UT60:line
+High airways:UT7:line
+High airways:UT71:line
+High airways:UT73:line
+High airways:UT75:line
+High airways:UT8:line
+High airways:UT9:line
+Regions:ACA-TMA:polygon
+Regions:Aerovias Controladas ACC MEX:polygon
+Regions:Circulos:polygon
+Regions:CVM-TMA:polygon
+Regions:TMA-BJX:polygon
+Regions:TMA-DGO:polygon
+Regions:TMA-GDL:polygon
+Regions:TMA-MEX:polygon
+Regions:TMA-MLM:polygon
+Regions:TMA-OAX:polygon
+Regions:TMA-PVR:polygon
+Regions:TMA-QET:polygon
+Regions:TMA-SLP:polygon
+Regions:TMA-TAM:polygon
+Regions:TMA-VER:polygon
+Regions:TMA-ZIH:polygon
+Regions:TMA-ZLO:polygon
+VORs:ACA:symbol
+VORs:ADN:symbol
+VORs:AGU:symbol
+VORs:APN:symbol
+VORs:BJX:symbol
+VORs:BZE:symbol
+VORs:CDR:symbol
+VORs:CEN:symbol
+VORs:CJS:symbol
+VORs:CME:symbol
+VORs:CMT:symbol
+VORs:COL:symbol
+VORs:CPE:symbol
+VORs:CSL:symbol
+VORs:CTM:symbol
+VORs:CUA:symbol
+VORs:CUL:symbol
+VORs:CUN:symbol
+VORs:CUU:symbol
+VORs:CVJ:symbol
+VORs:CVM:symbol
+VORs:CZA:symbol
+VORs:CZM:symbol
+VORs:DGO:symbol
+VORs:EWM:symbol
+VORs:GDL:symbol
+VORs:GYM:symbol
+VORs:HMO:symbol
+VORs:HUX:symbol
+VORs:IZT:symbol
+VORs:LAP:symbol
+VORs:LMM:symbol
+VORs:LTO:symbol
+VORs:MAM:symbol
+VORs:MEX:symbol
+VORs:MID:symbol
+VORs:MLM:symbol
+VORs:MOV:symbol
+VORs:MTT:symbol
+VORs:MTY:symbol
+VORs:MXL:symbol
+VORs:MZB:symbol
+VORs:MZT:symbol
+VORs:NCP:symbol
+VORs:NLD:symbol
+VORs:OAX:symbol
+VORs:PAZ:symbol
+VORs:PBC:symbol
+VORs:PCA:symbol
+VORs:PNG:symbol
+VORs:PPE:symbol
+VORs:PQE:symbol
+VORs:PTJ:symbol
+VORs:PVR:symbol
+VORs:PXM:symbol
+VORs:QET:symbol
+VORs:REX:symbol
+VORs:SJD:symbol
+VORs:SLM:symbol
+VORs:SLP:symbol
+VORs:SLW:symbol
+VORs:SMO:symbol
+VORs:SQN:symbol
+VORs:TAM:symbol
+VORs:TAP:symbol
+VORs:TEQ:symbol
+VORs:TGZ:symbol
+VORs:TIJ:symbol
+VORs:TIK:symbol
+VORs:TLC:symbol
+VORs:TMN:symbol
+VORs:TNY:symbol
+VORs:TRC:symbol
+VORs:TTM:symbol
+VORs:UPN:symbol
+VORs:VER:symbol
+VORs:VSA:symbol
+VORs:ZAP:symbol
+VORs:ZCL:symbol
+VORs:ZIH:symbol
+VORs:ZLO:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:2
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:17.731024:-106.571039:23.346669:-91.790964
