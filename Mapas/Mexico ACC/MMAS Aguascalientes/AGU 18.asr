@@ -1,0 +1,127 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
+SECTORTITLE:MMFR 2103.sct
+Fixes:AMAPU:symbol
+Fixes:AS513:symbol
+Fixes:AS801:symbol
+Fixes:AS802:symbol
+Fixes:AS803:symbol
+Fixes:AS804:symbol
+Fixes:AS805:symbol
+Fixes:AS807:symbol
+Fixes:AS808:symbol
+Fixes:AS809:symbol
+Fixes:AS810:symbol
+Fixes:AS900:symbol
+Fixes:AS901:symbol
+Fixes:AS904:symbol
+Fixes:AS905:symbol
+Fixes:AS906:symbol
+Fixes:AS907:symbol
+Fixes:AS908:symbol
+Fixes:AS909:symbol
+Fixes:AS912:symbol
+Fixes:BOPAX:name
+Fixes:BOPAX:symbol
+Fixes:ETBAM:symbol
+Fixes:GRUSI:name
+Fixes:GRUSI:symbol
+Fixes:HORTA:name
+Fixes:HORTA:symbol
+Fixes:IGSAM:name
+Fixes:IGSAM:symbol
+Fixes:KEDRI:name
+Fixes:KEDRI:symbol
+Fixes:LIVRI:name
+Fixes:LIVRI:symbol
+Fixes:LO403:symbol
+Fixes:MANTA:symbol
+Fixes:MITIN:name
+Fixes:MITIN:symbol
+Fixes:OMINA:name
+Fixes:OMINA:symbol
+Fixes:RAKAL:name
+Fixes:RAKAL:symbol
+Fixes:SESKO:name
+Fixes:SESKO:symbol
+Fixes:SUTOM:name
+Fixes:SUTOM:symbol
+Fixes:TEDZI:name
+Fixes:TEDZI:symbol
+Fixes:TETES:name
+Fixes:TETES:symbol
+Fixes:TIDIL:name
+Fixes:TIDIL:symbol
+Fixes:UKIRO:name
+Fixes:UKIRO:symbol
+Fixes:VOLER:name
+Fixes:VOLER:symbol
+Free Text:MMAS MVAS\100:freetext
+Free Text:MMAS MVAS\105:freetext
+Free Text:MMAS MVAS\110:freetext
+Free Text:MMAS MVAS\110:freetext
+Free Text:MMAS MVAS\85:freetext
+Free Text:MMAS MVAS\85:freetext
+Free Text:MMAS MVAS\90:freetext
+Free Text:MMAS MVAS\90:freetext
+Free Text:MMAS MVAS\95:freetext
+Free Text:MMAS MVAS\95:freetext
+Free Text:MMLO MVAS\100:freetext
+Free Text:MMLO MVAS\105:freetext
+Free Text:MMLO MVAS\110:freetext
+Free Text:MMLO MVAS\110:freetext
+Free Text:MMLO MVAS\110:freetext
+Free Text:MMLO MVAS\115:freetext
+Free Text:MMLO MVAS\140:freetext
+Free Text:MMLO MVAS\150:freetext
+Free Text:MMLO MVAS\80:freetext
+Free Text:MMLO MVAS\90:freetext
+Geo:(MVA) AGU-BJX:
+Geo:(TMA) BJX:
+Geo:(TMA) GDL:
+Geo:(TMA) MLM:
+Geo:(TMA) QET:
+Geo:(TMA) SLP:
+Geo:Linea_De_Costa:
+Regions:TMA-BJX:polygon
+Regions:TMA-GDL:polygon
+Regions:TMA-MLM:polygon
+Regions:TMA-QET:polygon
+Regions:TMA-SLP:polygon
+Sids:MMAS RNAV HORTA1A (18):
+Sids:MMAS RNAV LIVRI1C (18):
+Sids:MMAS RNAV MITIN1A (18):
+Sids:MMAS RNAV TEDZI1B (18):
+Sids:MMAS RNAV TIDIL1A (18):
+Sids:MMAS RNAV UKIRO1A (18):
+Stars:MMAS RNAV BJX1C (18):
+Stars:MMAS RNAV BOPAX1A (18):
+Stars:MMAS RNAV GRUSI1A (18):
+Stars:MMAS RNAV IGSAM1A (18):
+Stars:MMAS RNAV KEDRI1A (18):
+Stars:MMAS RNAV OMINA1A (18):
+Stars:MMAS RNAV RAKAL1A (18):
+Stars:MMAS RNAV VOLER1A (18):
+Stars:MMAS RNP (18):
+VORs:AGU:symbol
+VORs:BJX:symbol
+VORs:GDL:symbol
+VORs:MLM:symbol
+VORs:QET:symbol
+VORs:SLP:symbol
+VORs:ZCL:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:20.431035:-105.176190:22.763013:-99.038550
