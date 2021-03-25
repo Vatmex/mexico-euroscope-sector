@@ -1,0 +1,150 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
+SECTORTITLE:MMFR 2103.sct
+Free Text:MMCB TWYS\02:freetext
+Free Text:MMCB TWYS\20:freetext
+Free Text:MMCB TWYS\A:freetext
+Free Text:MMCB TWYS\B:freetext
+Free Text:MMGL TWYS\A:freetext
+Free Text:MMGL TWYS\A:freetext
+Free Text:MMGL TWYS\A:freetext
+Free Text:MMGL TWYS\A:freetext
+Free Text:MMGL TWYS\A:freetext
+Free Text:MMGL TWYS\A1:freetext
+Free Text:MMGL TWYS\A1:freetext
+Free Text:MMGL TWYS\A2:freetext
+Free Text:MMGL TWYS\B:freetext
+Free Text:MMGL TWYS\B:freetext
+Free Text:MMGL TWYS\C:freetext
+Free Text:MMGL TWYS\D:freetext
+Free Text:MMGL TWYS\E:freetext
+Free Text:MMGL TWYS\F:freetext
+Free Text:MMGL TWYS\G:freetext
+Free Text:MMGL TWYS\H:freetext
+Free Text:MMGL TWYS\J:freetext
+Free Text:MMGL TWYS\K:freetext
+Free Text:MMGL TWYS\L:freetext
+Free Text:MMGL TWYS\M:freetext
+Free Text:MMGL TWYS\N:freetext
+Free Text:MMMM TWYS\05:freetext
+Free Text:MMMM TWYS\23:freetext
+Free Text:MMMM TWYS\A:freetext
+Free Text:MMMM TWYS\B:freetext
+Free Text:MMMX TWYS\A:freetext
+Free Text:MMMX TWYS\A1:freetext
+Free Text:MMMX TWYS\A1:freetext
+Free Text:MMMX TWYS\A2:freetext
+Free Text:MMMX TWYS\A4:freetext
+Free Text:MMMX TWYS\A4:freetext
+Free Text:MMMX TWYS\A4:freetext
+Free Text:MMMX TWYS\A5:freetext
+Free Text:MMMX TWYS\B:freetext
+Free Text:MMMX TWYS\B:freetext
+Free Text:MMMX TWYS\B:freetext
+Free Text:MMMX TWYS\B:freetext
+Free Text:MMMX TWYS\B:freetext
+Free Text:MMMX TWYS\B:freetext
+Free Text:MMMX TWYS\B:freetext
+Free Text:MMMX TWYS\B:freetext
+Free Text:MMMX TWYS\B1:freetext
+Free Text:MMMX TWYS\B1:freetext
+Free Text:MMMX TWYS\B2:freetext
+Free Text:MMMX TWYS\B2:freetext
+Free Text:MMMX TWYS\B3:freetext
+Free Text:MMMX TWYS\B3:freetext
+Free Text:MMMX TWYS\B3:freetext
+Free Text:MMMX TWYS\B3:freetext
+Free Text:MMMX TWYS\B4:freetext
+Free Text:MMMX TWYS\B4:freetext
+Free Text:MMMX TWYS\B5:freetext
+Free Text:MMMX TWYS\B6:freetext
+Free Text:MMMX TWYS\B7:freetext
+Free Text:MMMX TWYS\B7:freetext
+Free Text:MMMX TWYS\B7:freetext
+Free Text:MMMX TWYS\B8:freetext
+Free Text:MMMX TWYS\B9:freetext
+Free Text:MMMX TWYS\C:freetext
+Free Text:MMMX TWYS\C:freetext
+Free Text:MMMX TWYS\C:freetext
+Free Text:MMMX TWYS\C1:freetext
+Free Text:MMMX TWYS\C2:freetext
+Free Text:MMMX TWYS\C3:freetext
+Free Text:MMMX TWYS\D:freetext
+Free Text:MMMX TWYS\D:freetext
+Free Text:MMMX TWYS\D:freetext
+Free Text:MMMX TWYS\D:freetext
+Free Text:MMMX TWYS\D:freetext
+Free Text:MMMX TWYS\D1:freetext
+Free Text:MMMX TWYS\E:freetext
+Free Text:MMMX TWYS\E:freetext
+Free Text:MMMX TWYS\E:freetext
+Free Text:MMMX TWYS\E:freetext
+Free Text:MMMX TWYS\E:freetext
+Free Text:MMMX TWYS\E1:freetext
+Free Text:MMMX TWYS\E2:freetext
+Free Text:MMMX TWYS\E2:freetext
+Free Text:MMMX TWYS\E2:freetext
+Free Text:MMMX TWYS\E2:freetext
+Free Text:MMMX TWYS\F:freetext
+Free Text:MMMX TWYS\G:freetext
+Free Text:MMMX TWYS\G:freetext
+Free Text:MMMX TWYS\H:freetext
+Free Text:MMMX TWYS\H:freetext
+Free Text:MMMX TWYS\H1:freetext
+Free Text:MMMX TWYS\J:freetext
+Free Text:MMMX TWYS\K:freetext
+Free Text:MMMX TWYS\L:freetext
+Free Text:MMMX TWYS\L:freetext
+Free Text:MMMX TWYS\PH:freetext
+Free Text:MMMX TWYS\PH:freetext
+Geo:(Diagramas) MMCB:
+Geo:(Diagramas) MMMM:
+Geo:(Diagramas) MMMX:
+Geo:(Diagramas) MMPB:
+Geo:(Diagramas) MMZO:
+Regions:ACA-TMA:polygon
+Regions:ACC MID:polygon
+Regions:Aerovias Controladas ACC MEX:polygon
+Regions:Circulos:polygon
+Regions:CJS-TMA:polygon
+Regions:CME-TMA:polygon
+Regions:CUN/CZM-TMA:polygon
+Regions:CUU-TMA:polygon
+Regions:CVM-TMA:polygon
+Regions:TMA-BJX:polygon
+Regions:TMA-DGO:polygon
+Regions:TMA-GDL:polygon
+Regions:TMA-MAM:polygon
+Regions:TMA-MEX:polygon
+Regions:TMA-MID:polygon
+Regions:TMA-MLM:polygon
+Regions:TMA-MTY:polygon
+Regions:TMA-NLD:polygon
+Regions:TMA-OAX:polygon
+Regions:TMA-PVR:polygon
+Regions:TMA-QET:polygon
+Regions:TMA-REX:polygon
+Regions:TMA-SLP:polygon
+Regions:TMA-SLW:polygon
+Regions:TMA-TAM:polygon
+Regions:TMA-TGZ:polygon
+Regions:TMA-TRC:polygon
+Regions:TMA-VER:polygon
+Regions:TMA-VSA:polygon
+Regions:TMA-ZIH:polygon
+Regions:TMA-ZLO:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:19.417886:-99.111883:19.451494:-99.023429

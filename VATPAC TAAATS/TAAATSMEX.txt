@@ -346,9 +346,11 @@ VOICE
 AG:MEX ACC:126.600:rw.liveatc.net:mmex_ctr
 AG:MID ACC:128.300:rw.liveatc.net:mmid_ctr
 AG:MTY ACC:124.500:rw.liveatc.net:mmty_ctr
-AG:MZT ACC:124.400:rw.liveatc.net:mmzt_ctr
+AG:MZT ACC:128.300:rw.liveatc.net:mmzt_ctr
 AG:ACA APP:119.900:rw.liveatc.net:mmaa_app
 AG:GDL APP:120.800:rw.liveatc.net:mmgl_app
+AG:MEX APP:121.200:rw.liveatc.net:mmmx_app
+AG:MEX ARR:129.650:rw.liveatc.net:mmmx_t_app
 END
 PROFILE
 PROFILE:MMEX_CTR:360:6
@@ -356,16 +358,24 @@ ATIS2:Mexico Center|Centro México
 ATIS3:Charts at www.vatmex.com.mx/charts
 ATIS4:
 PROFILE:MMID_CTR:500:6
-ATIS2:Mexico Center|Centro México
-ATIS3:Charts at https
+ATIS2:Merida Center|Centro Merida
+ATIS3:Charts at www.vatmex.com.mx/charts
 ATIS4:
-PROFILE:MMAA_APP:200:5
+PROFILE:MMAA_APP:120:5
 ATIS2:Acapulco Approach|Aproximacion Acapulco
-ATIS3:Charts at https
+ATIS3:Charts at www.vatmex.com.mx/charts
 ATIS4:
 PROFILE:MMGL_APP:130:5
 ATIS2:Guadalajara Approach|Aproximacion Guadalajara
-ATIS3:Charts at https
+ATIS3:Charts at www.vatmex.com.mx/charts
+ATIS4:
+PROFILE:MMZT_CTR:350:6
+ATIS2:Mazatlan Center|Centro Mazatlan
+ATIS3:Charts at www.vatmex.com.mx/charts
+ATIS4:
+PROFILE:MMTY_CTR:400:6
+ATIS2:Monterrey Center|Centro Monterrey
+ATIS3:Charts at www.vatmex.com.mx/charts
 ATIS4:
 END
 SIL
