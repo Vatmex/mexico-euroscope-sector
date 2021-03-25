@@ -3,10 +3,77 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
 SECTORTITLE:MMFR 2103.sct
+Free Text:MMAA TWYS\A:freetext
+Free Text:MMAA TWYS\A:freetext
+Free Text:MMAA TWYS\B:freetext
+Free Text:MMAA TWYS\C:freetext
+Free Text:MMAA TWYS\C:freetext
+Free Text:MMAA TWYS\D:freetext
+Free Text:MMAA TWYS\D:freetext
+Free Text:MMAA TWYS\E:freetext
+Free Text:MMAA TWYS\F:freetext
+Free Text:MMAN TWYS\A:freetext
+Free Text:MMAN TWYS\A:freetext
+Free Text:MMAN TWYS\B:freetext
+Free Text:MMAN TWYS\C:freetext
+Free Text:MMAN TWYS\D:freetext
+Free Text:MMAN TWYS\E:freetext
+Free Text:MMAN TWYS\E1:freetext
+Free Text:MMAN TWYS\F:freetext
+Free Text:MMAN TWYS\G:freetext
+Free Text:MMAN TWYS\H:freetext
+Free Text:MMAN TWYS\I:freetext
+Free Text:MMAN TWYS\J:freetext
+Free Text:MMAN TWYS\K:freetext
+Free Text:MMAN TWYS\L:freetext
+Free Text:MMAN TWYS\M:freetext
+Free Text:MMAN TWYS\N:freetext
+Free Text:MMAS TWYS\A:freetext
+Free Text:MMAS TWYS\B:freetext
+Free Text:MMBT TWYS\A:freetext
+Free Text:MMBT TWYS\B:freetext
+Free Text:MMBT TWYS\C:freetext
 Free Text:MMCB TWYS\02:freetext
 Free Text:MMCB TWYS\20:freetext
 Free Text:MMCB TWYS\A:freetext
 Free Text:MMCB TWYS\B:freetext
+Free Text:MMCE TWYS\13:freetext
+Free Text:MMCE TWYS\31:freetext
+Free Text:MMCE TWYS\A:freetext
+Free Text:MMCE TWYS\A:freetext
+Free Text:MMCE TWYS\B:freetext
+Free Text:MMCL TWYS\A:freetext
+Free Text:MMCL TWYS\A1:freetext
+Free Text:MMCL TWYS\A2:freetext
+Free Text:MMCL TWYS\A3:freetext
+Free Text:MMCL TWYS\B:freetext
+Free Text:MMCL TWYS\C:freetext
+Free Text:MMCM TWYS\A:freetext
+Free Text:MMCN TWYS\A:freetext
+Free Text:MMCN TWYS\B:freetext
+Free Text:MMCP TWYS\B:freetext
+Free Text:MMCP TWYS\C:freetext
+Free Text:MMCS TWYS\A:freetext
+Free Text:MMCS TWYS\B:freetext
+Free Text:MMCS TWYS\C:freetext
+Free Text:MMCT TWYS\A:freetext
+Free Text:MMCT TWYS\B:freetext
+Free Text:MMCU TWYS\A:freetext
+Free Text:MMCU TWYS\A:freetext
+Free Text:MMCU TWYS\A:freetext
+Free Text:MMCU TWYS\A:freetext
+Free Text:MMCU TWYS\A:freetext
+Free Text:MMCU TWYS\C:freetext
+Free Text:MMCU TWYS\C:freetext
+Free Text:MMCU TWYS\D:freetext
+Free Text:MMCU TWYS\D:freetext
+Free Text:MMCU TWYS\D:freetext
+Free Text:MMCU TWYS\E:freetext
+Free Text:MMCV TWYS\A:freetext
+Free Text:MMCV TWYS\B:freetext
+Free Text:MMCV TWYS\B:freetext
+Free Text:MMCV TWYS\C:freetext
+Free Text:MMCV TWYS\D:freetext
 Free Text:MMGL TWYS\A:freetext
 Free Text:MMGL TWYS\A:freetext
 Free Text:MMGL TWYS\A:freetext
@@ -99,17 +166,119 @@ Free Text:MMMX TWYS\L:freetext
 Free Text:MMMX TWYS\L:freetext
 Free Text:MMMX TWYS\PH:freetext
 Free Text:MMMX TWYS\PH:freetext
+Free Text:MMPR TWYS\A:freetext
+Free Text:MMPR TWYS\A:freetext
+Free Text:MMPR TWYS\A:freetext
+Free Text:MMPR TWYS\B:freetext
+Free Text:MMPR TWYS\C:freetext
+Free Text:MMPR TWYS\D:freetext
+Free Text:MMPR TWYS\D:freetext
+Free Text:MMPR TWYS\E:freetext
+Free Text:MMPR TWYS\E:freetext
+Free Text:MMPR TWYS\F:freetext
+Free Text:MMPR TWYS\G:freetext
+Free Text:MMPR TWYS\G:freetext
+Free Text:MMTO TWYS\A:freetext
+Free Text:MMTO TWYS\A:freetext
+Free Text:MMTO TWYS\B:freetext
+Free Text:MMTO TWYS\C:freetext
+Free Text:MMTO TWYS\D:freetext
+Free Text:MMTO TWYS\Q:freetext
+Free Text:MMUN TWYS\A2:freetext
+Free Text:MMUN TWYS\A3:freetext
+Free Text:MMUN TWYS\A8:freetext
+Free Text:MMUN TWYS\B:freetext
+Free Text:MMUN TWYS\B:freetext
+Free Text:MMUN TWYS\B:freetext
+Free Text:MMUN TWYS\B12:freetext
+Free Text:MMUN TWYS\B2:freetext
+Free Text:MMUN TWYS\B3:freetext
+Free Text:MMUN TWYS\B4:freetext
+Free Text:MMUN TWYS\B4:freetext
+Free Text:MMUN TWYS\B5:freetext
+Free Text:MMUN TWYS\B6:freetext
+Free Text:MMUN TWYS\B7:freetext
+Free Text:MMUN TWYS\C:freetext
+Free Text:MMUN TWYS\C:freetext
+Free Text:MMUN TWYS\C:freetext
+Free Text:MMUN TWYS\C:freetext
+Free Text:MMUN TWYS\C:freetext
+Free Text:MMUN TWYS\C1:freetext
+Free Text:MMUN TWYS\C2:freetext
+Free Text:MMUN TWYS\C3:freetext
+Free Text:MMUN TWYS\C4:freetext
+Free Text:MMUN TWYS\C5:freetext
+Free Text:MMUN TWYS\C6:freetext
+Free Text:MMUN TWYS\C7:freetext
+Free Text:MMUN TWYS\C9:freetext
+Free Text:MMUN TWYS\D:freetext
+Free Text:MMUN TWYS\D:freetext
+Free Text:MMUN TWYS\D1:freetext
+Free Text:MMUN TWYS\D2:freetext
+Free Text:MMUN TWYS\E2:freetext
+Free Text:MMZC TWYS\A:freetext
+Free Text:MMZC TWYS\A:freetext
+Free Text:MMZC TWYS\B:freetext
+Geo:(Diagrama) MMEP:
+Geo:(Diagrama) MMMY:
+Geo:(Diagramas) MMAA:
+Geo:(Diagramas) MMAN:
+Geo:(Diagramas) MMAS:
+Geo:(Diagramas) MMBT:
 Geo:(Diagramas) MMCB:
+Geo:(Diagramas) MMCE:
+Geo:(Diagramas) MMCL:
+Geo:(Diagramas) MMCM:
+Geo:(Diagramas) MMCN:
+Geo:(Diagramas) MMCP:
+Geo:(Diagramas) MMCS:
+Geo:(Diagramas) MMCT:
+Geo:(Diagramas) MMCU:
+Geo:(Diagramas) MMCV:
+Geo:(Diagramas) MMCZ:
+Geo:(Diagramas) MMDO:
+Geo:(Diagramas) MMHO:
+Geo:(Diagramas) MMIO:
+Geo:(Diagramas) MMLM:
+Geo:(Diagramas) MMLO:
+Geo:(Diagramas) MMLP:
+Geo:(Diagramas) MMMD:
+Geo:(Diagramas) MMML:
 Geo:(Diagramas) MMMM:
 Geo:(Diagramas) MMMX:
+Geo:(Diagramas) MMMZ:
 Geo:(Diagramas) MMPB:
+Geo:(Diagramas) MMPR:
+Geo:(Diagramas) MMPS:
+Geo:(Diagramas) MMQT:
+Geo:(Diagramas) MMSD:
+Geo:(Diagramas) MMTC:
+Geo:(Diagramas) MMTG:
+Geo:(Diagramas) MMTJ:
+Geo:(Diagramas) MMTM:
+Geo:(Diagramas) MMTO:
+Geo:(Diagramas) MMUN:
+Geo:(Diagramas) MMVA:
+Geo:(Diagramas) MMVR:
+Geo:(Diagramas) MMZH:
 Geo:(Diagramas) MMZO:
+Geo:Linea_De_Costa:
 Regions:ACA-TMA:polygon
 Regions:ACC MID:polygon
 Regions:Aerovias Controladas ACC MEX:polygon
 Regions:Circulos:polygon
 Regions:CJS-TMA:polygon
 Regions:CME-TMA:polygon
+Regions:COBERTURA CUU:polygon
+Regions:COBERTURA GDL:polygon
+Regions:COBERTURA HMO:polygon
+Regions:COBERTURA LAP:polygon
+Regions:COBERTURA MTY:polygon
+Regions:COBERTURA PPE:polygon
+Regions:COBERTURA RUSIAS:polygon
+Regions:COBERTURA SJD:polygon
+Regions:COBERTURA TAM:polygon
+Regions:COBERTURA TIJ:polygon
 Regions:CUN/CZM-TMA:polygon
 Regions:CUU-TMA:polygon
 Regions:CVM-TMA:polygon
@@ -147,4 +316,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:TAAATS2
-WINDOWAREA:19.417886:-99.111883:19.451494:-99.023429
+WINDOWAREA:12.221247:-128.249403:33.939885:-71.087112
