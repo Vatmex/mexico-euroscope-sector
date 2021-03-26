@@ -3,29 +3,25 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
 SECTORTITLE:MMFR 2103.sct
-Fixes:AMAPU:symbol
+Fixes:AS510:symbol
+Fixes:AS512:symbol
 Fixes:AS513:symbol
-Fixes:AS801:symbol
-Fixes:AS802:symbol
-Fixes:AS803:symbol
-Fixes:AS804:symbol
-Fixes:AS805:symbol
-Fixes:AS807:symbol
-Fixes:AS808:symbol
-Fixes:AS809:symbol
-Fixes:AS810:symbol
-Fixes:AS900:symbol
-Fixes:AS901:symbol
-Fixes:AS904:symbol
-Fixes:AS905:symbol
-Fixes:AS906:symbol
-Fixes:AS907:symbol
-Fixes:AS908:symbol
-Fixes:AS909:symbol
-Fixes:AS912:symbol
+Fixes:AS515:symbol
+Fixes:AS516:symbol
+Fixes:AS517:symbol
+Fixes:AS518:symbol
+Fixes:AS519:symbol
+Fixes:AS610:symbol
+Fixes:AS611:symbol
+Fixes:AS613:symbol
+Fixes:AS614:symbol
+Fixes:AS615:symbol
+Fixes:AS618:symbol
+Fixes:AS620:symbol
 Fixes:BOPAX:name
 Fixes:BOPAX:symbol
-Fixes:ETBAM:symbol
+Fixes:DUVUB:symbol
+Fixes:ELSUL:symbol
 Fixes:GRUSI:name
 Fixes:GRUSI:symbol
 Fixes:HORTA:name
@@ -38,20 +34,17 @@ Fixes:LIVRI:name
 Fixes:LIVRI:symbol
 Fixes:LO403:symbol
 Fixes:MANTA:symbol
+Fixes:MIDLA:name
+Fixes:MIDLA:symbol
 Fixes:MITIN:name
 Fixes:MITIN:symbol
 Fixes:OMINA:name
 Fixes:OMINA:symbol
+Fixes:PUSAN:name
+Fixes:PUSAN:symbol
 Fixes:RAKAL:name
 Fixes:RAKAL:symbol
-Fixes:SESKO:name
-Fixes:SESKO:symbol
-Fixes:SUTOM:name
-Fixes:SUTOM:symbol
-Fixes:TEDZI:name
 Fixes:TEDZI:symbol
-Fixes:TETES:name
-Fixes:TETES:symbol
 Fixes:TIDIL:name
 Fixes:TIDIL:symbol
 Fixes:UKIRO:name
@@ -86,21 +79,20 @@ Geo:(TMA) QET:
 Geo:(TMA) SLP:
 Geo:Linea_De_Costa:
 Regions:TMA-BJX:polygon
-Sids:MMAS RNAV HORTA1A (18):
-Sids:MMAS RNAV LIVRI1C (18):
-Sids:MMAS RNAV MITIN1A (18):
-Sids:MMAS RNAV TEDZI1B (18):
-Sids:MMAS RNAV TIDIL1A (18):
-Sids:MMAS RNAV UKIRO1A (18):
-Stars:MMAS RNAV BJX1C (18):
-Stars:MMAS RNAV BOPAX1A (18):
-Stars:MMAS RNAV GRUSI1A (18):
-Stars:MMAS RNAV IGSAM1A (18):
-Stars:MMAS RNAV KEDRI1A (18):
-Stars:MMAS RNAV OMINA1A (18):
-Stars:MMAS RNAV RAKAL1A (18):
-Stars:MMAS RNAV VOLER1A (18):
-Stars:MMAS RNP (18):
+Sids:MMAS RNAV HORTA1B (36):
+Sids:MMAS RNAV LIVRI1D (36):
+Sids:MMAS RNAV MITIN1B (36):
+Sids:MMAS RNAV TIDIL1B (36):
+Sids:MMAS RNAV UKIRO1B (36):
+Stars:MMAS RNAV BJX1D (36):
+Stars:MMAS RNAV BOPAX1B (36):
+Stars:MMAS RNAV GRUSI1B (36):
+Stars:MMAS RNAV IGSAM1B (36):
+Stars:MMAS RNAV KEDRI1B (36):
+Stars:MMAS RNAV OMINA1B (36):
+Stars:MMAS RNAV RAKAL1B (36):
+Stars:MMAS RNAV VOLER1B (36):
+Stars:MMAS RNP (36):
 VORs:AGU:symbol
 VORs:BJX:symbol
 VORs:GDL:symbol
@@ -120,4 +112,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:TAAATS2
-WINDOWAREA:20.238992:-105.212909:22.685239:-99.062533
+WINDOWAREA:20.094197:-105.958868:23.152007:-98.270897
