@@ -5,12 +5,20 @@ SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
 SECTORTITLE:MMFR 2103.sct
 Fixes:ALMIS:name
 Fixes:ALMIS:symbol
+Fixes:ATURO:name
+Fixes:ATURO:symbol
+Fixes:AXIRI:name
+Fixes:AXIRI:symbol
 Fixes:DARAN:name
 Fixes:DARAN:symbol
 Fixes:ENAGA:name
 Fixes:ENAGA:symbol
 Fixes:ESPOS:name
 Fixes:ESPOS:symbol
+Fixes:IKLAN:name
+Fixes:IKLAN:symbol
+Fixes:ILETO:name
+Fixes:ILETO:symbol
 Fixes:LARLO:name
 Fixes:LARLO:symbol
 Fixes:LEXIT:symbol
@@ -34,13 +42,40 @@ Fixes:MX732:symbol
 Fixes:MX733:symbol
 Fixes:MX735:symbol
 Fixes:MX741:symbol
+Fixes:MX800:symbol
+Fixes:MX801:symbol
+Fixes:MX810:symbol
+Fixes:MX825:symbol
+Fixes:MX835:symbol
+Fixes:MX836:symbol
+Fixes:MX839:symbol
+Fixes:MX840:symbol
+Fixes:MX850:symbol
+Fixes:MX852:symbol
+Fixes:MX854:symbol
+Fixes:MX861:symbol
+Fixes:MX865:symbol
 Fixes:MX900:symbol
+Fixes:NOXOS:name
+Fixes:NOXOS:symbol
 Fixes:OTEDA:symbol
+Fixes:OVAGO:name
+Fixes:OVAGO:symbol
 Fixes:SAUZA:symbol
+Fixes:SEBON:name
+Fixes:SEBON:symbol
 Fixes:SUTAS:name
 Fixes:SUTAS:symbol
+Fixes:TEVOS:name
+Fixes:TEVOS:symbol
+Fixes:UKUNO:name
+Fixes:UKUNO:symbol
+Fixes:ULEBA:name
+Fixes:ULEBA:symbol
+Fixes:ULOTO:symbol
 Fixes:URNOK:name
 Fixes:URNOK:symbol
+Fixes:USBAN:symbol
 Fixes:VOLUN:name
 Fixes:VOLUN:symbol
 Geo:(MVA) MEX:
@@ -48,13 +83,17 @@ Geo:(PMS) MEX 05:
 Geo:(TMA) MEX:
 Geo:(TMA) MLM:
 Geo:(TMA) QET:
-Regions:Aerovias Controladas ACC MEX:polygon
-Regions:Circulos:polygon
-Regions:TMA-BJX:polygon
 Regions:TMA-MEX:polygon
-Regions:TMA-MLM:polygon
-Regions:TMA-QET:polygon
-Regions:TMA-VER:polygon
+Sids:MMMX RNAV ATURO1A (05):
+Sids:MMMX RNAV AXIRI1A (05):
+Sids:MMMX RNAV IKLAN1A (05):
+Sids:MMMX RNAV ILETO1A (05):
+Sids:MMMX RNAV NOXOS1A (05):
+Sids:MMMX RNAV OVAGO1A (05):
+Sids:MMMX RNAV SEBON1A (05):
+Sids:MMMX RNAV TEVOS1A (05):
+Sids:MMMX RNAV UKUNO1A (05):
+Sids:MMMX RNAV ULEBA1A (05):
 Stars:MMMX ILS Z 05R:
 Stars:MMMX RNAV DARAN1A (05):
 Stars:MMMX RNAV ENAGA1A (05):
@@ -83,4 +122,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:TAAATS2
-WINDOWAREA:18.256264:-102.288975:20.898526:-95.645778
+WINDOWAREA:18.612357:-101.609400:20.706604:-96.097455
