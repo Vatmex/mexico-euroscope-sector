@@ -3,6 +3,10 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
 SECTORTITLE:MMFR 2103.sct
+Fixes:ATURO:name
+Fixes:ATURO:symbol
+Fixes:AXIRI:name
+Fixes:AXIRI:symbol
 Fixes:DARAN:name
 Fixes:DARAN:symbol
 Fixes:ENAGA:name
@@ -10,6 +14,10 @@ Fixes:ENAGA:symbol
 Fixes:ESPOS:name
 Fixes:ESPOS:symbol
 Fixes:ESTAR:symbol
+Fixes:IKLAN:name
+Fixes:IKLAN:symbol
+Fixes:ILETO:name
+Fixes:ILETO:symbol
 Fixes:KOZLO:name
 Fixes:KOZLO:symbol
 Fixes:LARLO:name
@@ -25,21 +33,39 @@ Fixes:MX616:symbol
 Fixes:MX617:symbol
 Fixes:MX639:symbol
 Fixes:MX640:symbol
+Fixes:NOXOS:name
+Fixes:NOXOS:symbol
 Fixes:NUGIR:symbol
 Fixes:OTOSA:symbol
+Fixes:OVAGO:name
+Fixes:OVAGO:symbol
 Fixes:PITEL:symbol
+Fixes:SEBON:name
+Fixes:SEBON:symbol
 Fixes:SESTA:name
 Fixes:SESTA:symbol
+Fixes:TEVOS:name
+Fixes:TEVOS:symbol
+Fixes:UKUNO:name
+Fixes:UKUNO:symbol
+Fixes:ULEBA:name
+Fixes:ULEBA:symbol
 Geo:(MVA) MEX:
 Geo:(PMS) MEX 23:
 Geo:(TMA) MEX:
-Regions:Aerovias Controladas ACC MEX:polygon
-Regions:Circulos:polygon
-Regions:TMA-BJX:polygon
+Geo:(TMA) MLM:
+Geo:(TMA) QET:
 Regions:TMA-MEX:polygon
-Regions:TMA-MLM:polygon
-Regions:TMA-QET:polygon
-Regions:TMA-VER:polygon
+Sids:MMMX RNAV ATURO1B (23):
+Sids:MMMX RNAV AXIRI1B (23):
+Sids:MMMX RNAV IKLAN1B (23):
+Sids:MMMX RNAV ILETO1B (23):
+Sids:MMMX RNAV NOXOS1B (23):
+Sids:MMMX RNAV OVAGO1B (23):
+Sids:MMMX RNAV SEBON1B (23):
+Sids:MMMX RNAV TEVOS1B (23):
+Sids:MMMX RNAV UKUNO1B (23):
+Sids:MMMX RNAV ULEBA1B (23):
 Stars:MMMX ILS Z 23L:
 Stars:MMMX RNAV DARAN1B (23):
 Stars:MMMX RNAV ENAGA1B (23):
@@ -68,4 +94,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:TAAATS2
-WINDOWAREA:18.574074:-101.457126:20.439655:-96.547017
+WINDOWAREA:18.534203:-101.439517:20.399784:-96.529408
