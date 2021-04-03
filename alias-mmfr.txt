@@ -1,0 +1,11 @@
+;Archivo ALIAS MMFR Rev 1.0 
+
+<!--Autorizaciones-->
+
+.autorizado Autorizado a $arr via $route pista $1, ascienda via $sid a $alt espere $cruise, codigo transponder $squawk
+
+.cleared Cleared to $arr via $route runway $1 climb via $sid to $alt expect $cruise, squawk $squawk
+
+.autorizadovectores Autorizado a $arr via $route, pista $1 mantenga rumbo de pista y espere vectores, ascienda y mantenga $alt, espere $cruise, codigo transponder $squawk
+
+.clearedvectors Cleared to $arr via $route, runway $1 maintain runway heading and expect vectors, climb and maintain $alt expect $cruise, squawk $squawk
