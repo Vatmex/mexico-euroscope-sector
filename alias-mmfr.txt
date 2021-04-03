@@ -41,5 +41,9 @@
 .mmmxmmprpbn SEBON UT124 NOTUP
 .mmmxmmprconv TLC UJ18 COL UJ9 PVR
 
-.mmmxmmtgconv DCT ILETO UT109 VER UJ12 VSA
+.mmmxmmvapbn ILETO UT109 VER UJ12 VSA
 .mmmxmmvaconv MEX APN UJ18 VER UJ12 VSA
+
+.mmmxmmtgpbn ILETO UT109 VER UA552 TGZ
+.mmmxmmtgconv APN UJ18 VER UA552 TGZ 
+
