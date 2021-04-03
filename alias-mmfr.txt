@@ -9,3 +9,11 @@
 .autorizadovectores Autorizado a $arr via $route, pista $1 mantenga rumbo de pista y espere vectores, ascienda y mantenga $alt, espere $cruise, codigo transponder $squawk
 
 .clearedvectors Cleared to $arr via $route, runway $1 maintain runway heading and expect vectors, climb and maintain $alt expect $cruise, squawk $squawk
+
+<!--PDC-->
+
+.pdc05 CLD $time MMMX PDC $aircraft CLRD TO $arr OFF 05 VIA $route CLIMB TO AND MAINTAIN ALTITUDE $alt EXPECT FLIGHT LEVEL $cruise SQUAWK $squawk NEXT FREQ $freq CLIMB VIA SID TO $alt GATE 1 TO 51 CONTACT GND FREQUENCY $freq/ POSITION 52 TO 101 AND POSITION TB TA CONTACT $freq GND
+
+.pdcconv05 CLD $time MMMX PDC $aircraft CLRD TO $arr OFF 05 VIA $ROUTE CLIMB AND MAINTAIN ALTITUDE $alt EXPECT FLIGHT LEVEL $cruise SQUAWK $squawk NEXT FREQ $freq MAINTAIN RUNWAY HEADING AND EXPECT VECTORS GATE 1 TO 51 CONTACT GND FREQUENCY $freq/ POSITION 52 TO 101 AND POSITION TB TA CONTACT $freq GND 
+
+.nopdc $aircraft -PRE-DEPARTURE CLEARANCE UNAVAILABLE. CONTACT $freq FOR CLEARANCE
