@@ -1,0 +1,49 @@
+;Archivo ALIAS MMFR Rev 1.0 
+
+<!--Autorizaciones-->
+
+.autorizado Autorizado a $arr via $route pista $1, ascienda via $sid a $alt espere $cruise, codigo transponder $squawk
+
+.cleared Cleared to $arr via $route runway $1 climb via $sid to $alt expect $cruise, squawk $squawk
+
+.autorizadovectores Autorizado a $arr via $route, pista $1 mantenga rumbo de pista y espere vectores, ascienda y mantenga $alt, espere $cruise, codigo transponder $squawk
+
+.clearedvectors Cleared to $arr via $route, runway $1 maintain runway heading and expect vectors, climb and maintain $alt expect $cruise, squawk $squawk
+
+<!--PDC-->
+
+.pdc05 CLD $time MMMX PDC $aircraft CLRD TO $arr OFF 05 VIA $route CLIMB TO AND MAINTAIN ALTITUDE $alt EXPECT FLIGHT LEVEL $cruise SQUAWK $squawk NEXT FREQ $freq CLIMB VIA SID TO $alt GATE 1 TO 51 CONTACT GND FREQUENCY $freq/ POSITION 52 TO 101 AND POSITION TB TA CONTACT $freq GND
+
+.pdcconv05 CLD $time MMMX PDC $aircraft CLRD TO $arr OFF 05 VIA $ROUTE CLIMB AND MAINTAIN ALTITUDE $alt EXPECT FLIGHT LEVEL $cruise SQUAWK $squawk NEXT FREQ $freq MAINTAIN RUNWAY HEADING AND EXPECT VECTORS GATE 1 TO 51 CONTACT GND FREQUENCY $freq/ POSITION 52 TO 101 AND POSITION TB TA CONTACT $freq GND 
+
+.nopdc $aircraft -PRE-DEPARTURE CLEARANCE UNAVAILABLE. CONTACT $freq FOR CLEARANCE
+
+<!--Rutas-->
+
+.mmmxmmunpbn UKUNO UT107 ELURA UT17 VOMAR
+.mmmxmmunconv APN UJ18 MID UJ16 CUN
+
+.mmmxmmmypbn AXIRI UT138 CVM UJ15E RETOS
+.mmmxmmmyconv SLM UJ81 MORAS UJ17 CVM UJ15E MTY
+
+.mmmxmmglpbn OVAGO UT123 ULUVO
+.mmmxmmglconv TLC UJ18 COL J25 GDL
+
+.mmmxmmmdpbn UKUNO UT156 AVIVI DCT VODIV UT42 DYSON
+.mmmxmmmdconv APN UJ18 VER UJ24 NUDIK UJ16 MID
+
+.mmmxmmtjpbn ATURO UT133 AGU UQ104 AVRIL UJ3 TANRI
+.mmmxmmtjconv SLM UJ47 SLP UJ50 ZCL UJ5 DGO UJ6 CUL UJ7 PPE UJ3 TIJ
+
+.mmmxmmvrpbn UKUNO UT108 TEVET
+.mmmxmmvrconv APN UJ18 VER
+
+.mmmxmmprpbn SEBON UT124 NOTUP
+.mmmxmmprconv TLC UJ18 COL UJ9 PVR
+
+.mmmxmmvapbn ILETO UT109 VER UJ12 VSA
+.mmmxmmvaconv MEX APN UJ18 VER UJ12 VSA
+
+.mmmxmmtgpbn ILETO UT109 VER UA552 TGZ
+.mmmxmmtgconv APN UJ18 VER UA552 TGZ 
+
