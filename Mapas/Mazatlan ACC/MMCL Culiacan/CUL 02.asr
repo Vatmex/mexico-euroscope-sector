@@ -1,0 +1,106 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
+SECTORTITLE:MMFR 2103.sct
+Fixes:AVTAL:name
+Fixes:AVTAL:symbol
+Fixes:BERUR:name
+Fixes:BERUR:symbol
+Fixes:CL405:symbol
+Fixes:CL407:symbol
+Fixes:CL408:symbol
+Fixes:CL409:symbol
+Fixes:CL411:symbol
+Fixes:CL414:symbol
+Fixes:CL601:symbol
+Fixes:CL602:symbol
+Fixes:CL603:symbol
+Fixes:CL604:symbol
+Fixes:CL605:symbol
+Fixes:CL608:symbol
+Fixes:CL620:symbol
+Fixes:CL801:symbol
+Fixes:CL802:symbol
+Fixes:CL803:symbol
+Fixes:CL804:symbol
+Fixes:CL811:symbol
+Fixes:CL819:symbol
+Fixes:CL820:symbol
+Fixes:CL822:symbol
+Fixes:ELEGU:name
+Fixes:ELEGU:symbol
+Fixes:IKBOR:name
+Fixes:IKBOR:symbol
+Fixes:ILAVI:name
+Fixes:ILAVI:symbol
+Fixes:KIPAX:name
+Fixes:KIPAX:symbol
+Fixes:MELBO:name
+Fixes:MELBO:symbol
+Fixes:MUVEN:name
+Fixes:MUVEN:symbol
+Fixes:NUBIK:name
+Fixes:NUBIK:symbol
+Fixes:OLAKA:name
+Fixes:OLAKA:symbol
+Fixes:OLEXU:symbol
+Fixes:SAVOM:name
+Fixes:SAVOM:symbol
+Fixes:USDAP:name
+Fixes:USDAP:symbol
+Fixes:VEVLO:name
+Fixes:VEVLO:symbol
+Fixes:VIVUX:symbol
+Fixes:VODAS:symbol
+Free Text:MMCL MVAS\106:freetext
+Free Text:MMCL MVAS\112:freetext
+Free Text:MMCL MVAS\119:freetext
+Free Text:MMCL MVAS\15:freetext
+Free Text:MMCL MVAS\18:freetext
+Free Text:MMCL MVAS\20:freetext
+Free Text:MMCL MVAS\28:freetext
+Free Text:MMCL MVAS\30:freetext
+Free Text:MMCL MVAS\40:freetext
+Free Text:MMCL MVAS\40:freetext
+Free Text:MMCL MVAS\40:freetext
+Free Text:MMCL MVAS\50:freetext
+Free Text:MMCL MVAS\51:freetext
+Free Text:MMCL MVAS\60:freetext
+Free Text:MMCL MVAS\60:freetext
+Free Text:MMCL MVAS\70:freetext
+Free Text:MMCL MVAS\85:freetext
+Free Text:MMCL MVAS\85:freetext
+Free Text:MMCL MVAS\90:freetext
+Geo:(MVA) CUL:
+Geo:(TMA) CUL:
+Geo:Linea_De_Costa:
+Regions:CUL-TMA:polygon
+Sids:MMCL RNAV AVTAL1A (02):
+Sids:MMCL RNAV ELEGU1A (02):
+Sids:MMCL RNAV IKBOR1A (02):
+Sids:MMCL RNAV ILAVI1A (02):
+Sids:MMCL RNAV KIPAX1A (02):
+Sids:MMCL RNAV MUVEN1A (02):
+Stars:MMCL RNAV AVTAL1C (02):
+Stars:MMCL RNAV ELEGU1C (02):
+Stars:MMCL RNAV ILAVI1C (02):
+Stars:MMCL RNAV MELBO1A (02):
+Stars:MMCL RNAV NUBIK1A (02):
+Stars:MMCL RNAV OLAKA1A (02):
+Stars:MMCL RNAV SAVOM1A (02):
+Stars:MMCL RNP (02):
+VORs:CUL:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:23.761951:-110.091568:25.958819:-104.568184
