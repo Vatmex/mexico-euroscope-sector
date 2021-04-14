@@ -1,0 +1,124 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
+SECTORTITLE:MMFR 2103.sct
+ARTCC high boundary:MMID:
+Fixes:AGNIX:symbol
+Fixes:ALRIP:symbol
+Fixes:AVSEB:name
+Fixes:AVSEB:symbol
+Fixes:BALCH:symbol
+Fixes:BEPOR:symbol
+Fixes:BUBUN:symbol
+Fixes:DEPVA:symbol
+Fixes:EPNEL:symbol
+Fixes:ILUBA:name
+Fixes:ILUBA:symbol
+Fixes:LOPKA:name
+Fixes:LOPKA:symbol
+Fixes:NOSAT:name
+Fixes:NOSAT:symbol
+Fixes:NOSUG:name
+Fixes:NOSUG:symbol
+Fixes:NUDAL:name
+Fixes:NUDAL:symbol
+Fixes:NUKAN:name
+Fixes:NUKAN:symbol
+Fixes:ODLAR:symbol
+Fixes:OTSOL:name
+Fixes:OTSOL:symbol
+Fixes:PAULE:name
+Fixes:PAULE:symbol
+Fixes:PUREG:symbol
+Fixes:QUADY:symbol
+Fixes:ROTGI:name
+Fixes:ROTGI:symbol
+Fixes:SCAHA:symbol
+Fixes:SESLI:name
+Fixes:SESLI:symbol
+Fixes:SEVKA:symbol
+Fixes:SIGMA:name
+Fixes:SIGMA:symbol
+Fixes:UDGUV:name
+Fixes:UDGUV:symbol
+Fixes:ULBOX:symbol
+Fixes:UN500:symbol
+Fixes:UN605:symbol
+Fixes:UN606:symbol
+Fixes:UN610:symbol
+Fixes:UN611:symbol
+Fixes:UN612:symbol
+Fixes:UN617:symbol
+Fixes:UN621:symbol
+Fixes:UN631:symbol
+Fixes:UN700:symbol
+Fixes:UN701:symbol
+Fixes:UN702:symbol
+Fixes:UN703:symbol
+Fixes:UN704:symbol
+Fixes:UN705:symbol
+Fixes:UN706:symbol
+Fixes:UN707:symbol
+Fixes:UN708:symbol
+Fixes:UN709:symbol
+Fixes:UN710:symbol
+Fixes:UN711:symbol
+Fixes:UN712:symbol
+Fixes:UN713:symbol
+Fixes:VOMAR:name
+Fixes:VOMAR:symbol
+Fixes:XUDUN:name
+Fixes:XUDUN:symbol
+Free Text:MMUN MVAS\14:freetext
+Free Text:MMUN MVAS\14:freetext
+Free Text:MMUN MVAS\20:freetext
+Free Text:MMUN MVAS\30:freetext
+Free Text:MMUN MVAS\40:freetext
+Free Text:MMUN MVAS\60:freetext
+Geo:(MVA) CUN:
+Geo:(TMA) CUN:
+Geo:Linea_De_Costa:
+Regions:CUN/CZM-TMA:polygon
+Runways:MMCZ COZUMEL INTL 11-29:centerline
+Runways:MMUN CANCUN INTL 12L-30R:centerline
+Runways:MMUN CANCUN INTL 12R-30L:centerline
+Sids:MMUN RNAV AVSEB1E (30R):
+Sids:MMUN RNAV AVSEB1F (30L):
+Sids:MMUN RNAV CZM1E (30R):
+Sids:MMUN RNAV CZM1F (30L):
+Sids:MMUN RNAV NOSUG1E (30R):
+Sids:MMUN RNAV NOSUG1F (30L):
+Sids:MMUN RNAV NUDAL1E (30R):
+Sids:MMUN RNAV NUDAL1F (30L):
+Sids:MMUN RNAV NUKAN1E (30R):
+Sids:MMUN RNAV NUKAN1F (30L):
+Sids:MMUN RNAV ROTGI1E (30R):
+Sids:MMUN RNAV ROTGI1F (30L):
+Sids:MMUN RNAV UDGUV1E (30R):
+Sids:MMUN RNAV UDGUV1F (30L):
+Stars:MMUN RNAV ILUBA1G (30L/R):
+Stars:MMUN RNAV NOSAT1D (30L/R):
+Stars:MMUN RNAV PAULE1K (30L/R):
+Stars:MMUN RNAV PAULE1L (30L/R):
+Stars:MMUN RNAV SIGMA1I (30L/R):
+Stars:MMUN RNAV VOMAR1C (30L/R):
+Stars:MMUN RNAV XUDUN1D (30L/R):
+Stars:MMUN RNAV XUDUN1E (30L/R):
+Stars:MMUN RNP 2 (30L):
+Stars:MMUN RNP 2 (30R):
+VORs:CUN:symbol
+VORs:CZM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:19.298131:-90.879403:22.570392:-82.266987
