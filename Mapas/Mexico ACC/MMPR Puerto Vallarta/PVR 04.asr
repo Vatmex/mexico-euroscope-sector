@@ -1,0 +1,98 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
+SECTORTITLE:MMFR 2103.sct
+ARTCC low boundary:(CTR) TNY:
+Fixes:BOBDI:name
+Fixes:BOBDI:symbol
+Fixes:KEDIX:name
+Fixes:KEDIX:symbol
+Fixes:KEDMA:name
+Fixes:KEDMA:symbol
+Fixes:LIPEP:name
+Fixes:LIPEP:symbol
+Fixes:MAYTE:name
+Fixes:MAYTE:symbol
+Fixes:NOTUP:name
+Fixes:NOTUP:symbol
+Fixes:OBRUG:name
+Fixes:OBRUG:symbol
+Fixes:PR400:symbol
+Fixes:PR502:symbol
+Fixes:PR503:symbol
+Fixes:PR505:symbol
+Fixes:PR506:symbol
+Fixes:PR601:symbol
+Fixes:PR602:symbol
+Fixes:PR604:symbol
+Fixes:PR605:symbol
+Fixes:PR606:symbol
+Fixes:PR607:symbol
+Fixes:PR608:symbol
+Fixes:PR609:symbol
+Fixes:PR610:symbol
+Fixes:PR611:symbol
+Fixes:PR614:symbol
+Fixes:RORPO:name
+Fixes:RORPO:symbol
+Fixes:SETLU:symbol
+Fixes:VOLAT:name
+Fixes:VOLAT:symbol
+Fixes:XUDED:name
+Fixes:XUDED:symbol
+Free Text:MMPR MVAS\104:freetext
+Free Text:MMPR MVAS\110:freetext
+Free Text:MMPR MVAS\18:freetext
+Free Text:MMPR MVAS\18:freetext
+Free Text:MMPR MVAS\30:freetext
+Free Text:MMPR MVAS\32:freetext
+Free Text:MMPR MVAS\34:freetext
+Free Text:MMPR MVAS\35:freetext
+Free Text:MMPR MVAS\36:freetext
+Free Text:MMPR MVAS\36:freetext
+Free Text:MMPR MVAS\44:freetext
+Free Text:MMPR MVAS\44:freetext
+Free Text:MMPR MVAS\49:freetext
+Free Text:MMPR MVAS\52:freetext
+Free Text:MMPR MVAS\52:freetext
+Free Text:MMPR MVAS\53:freetext
+Free Text:MMPR MVAS\58:freetext
+Free Text:MMPR MVAS\58:freetext
+Free Text:MMPR MVAS\70:freetext
+Free Text:MMPR MVAS\75:freetext
+Free Text:MMPR MVAS\83:freetext
+Free Text:MMPR MVAS\88:freetext
+Free Text:MMPR MVAS\89:freetext
+Free Text:MMPR MVAS\97:freetext
+Free Text:MMPR MVAS\97:freetext
+Geo:(MVA) PVR:
+Geo:(TMA) PVR:
+Geo:Linea_De_Costa:
+Regions:TMA-PVR:polygon
+Runways:MMEP TEPIC 02-20:centerline
+Runways:MMPR LIC GUSTAVO DIAZ ORDAZ I 04-22:centerline
+Sids:MMPR RNAV BOBDI1A (04):
+Sids:MMPR RNAV LIPEP1C (04):
+Sids:MMPR RNAV VOLAT1C (04):
+Sids:MMPR RNAV XUDED1A (04):
+Stars:MMPR RNAV KEDIX1A (04):
+Stars:MMPR RNAV KEDMA1A (04):
+Stars:MMPR RNAV NOTUP1A (04):
+Stars:MMPR RNAV OBRUG1A (04):
+Stars:MMPR RNP (04):
+VORs:PVR:symbol
+VORs:TNY:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:19.705787:-108.211001:22.059547:-102.293158
