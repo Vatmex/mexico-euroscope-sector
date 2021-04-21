@@ -353,6 +353,7 @@ AG:MEX APP:121.200:rw.liveatc.net:mmmx_app
 AG:MEX ARR:129.650:rw.liveatc.net:mmmx_t_app
 AG:BJX APP:119.050:rw.liveatc.net:mmlo_app
 AG:CUN APP:124.700:rw.liveatc.net:mmun_app
+AG:PVR APP:119.000:rw.liveatc.net:mmpr_app
 END
 PROFILE
 PROFILE:MMEX_CTR:360:6
@@ -385,6 +386,10 @@ ATIS3:Charts at www.vatmex.com.mx/charts
 ATIS4:
 PROFILE:MMUN_APP:150:5
 ATIS2:Cancun Approach|Aproximacion Cancun
+ATIS3:Charts at www.vatmex.com.mx/charts
+ATIS4:
+PROFILE:MMPR_APP:150:5
+ATIS2:Vallarta Approach|Aproximacion Vallarta
 ATIS3:Charts at www.vatmex.com.mx/charts
 ATIS4:
 END
