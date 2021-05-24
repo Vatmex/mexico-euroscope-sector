@@ -1,0 +1,102 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
+SECTORTITLE:MMFR 2103.sct
+ARTCC low boundary:(CTR) TNY:
+Fixes:BOBDI:name
+Fixes:BOBDI:symbol
+Fixes:ESVEL:name
+Fixes:ESVEL:symbol
+Fixes:KEDIX:name
+Fixes:KEDIX:symbol
+Fixes:KEDMA:name
+Fixes:KEDMA:symbol
+Fixes:LIPEP:name
+Fixes:LIPEP:symbol
+Fixes:MUVBA:name
+Fixes:MUVBA:symbol
+Fixes:NOTUP:name
+Fixes:NOTUP:symbol
+Fixes:OBRUG:name
+Fixes:OBRUG:symbol
+Fixes:PR404:symbol
+Fixes:PR551:symbol
+Fixes:PR552:symbol
+Fixes:PR553:symbol
+Fixes:PR555:symbol
+Fixes:PR557:symbol
+Fixes:PR558:symbol
+Fixes:PR656:symbol
+Fixes:PR658:symbol
+Fixes:PR659:symbol
+Fixes:PR660:symbol
+Fixes:PR662:symbol
+Fixes:PR664:symbol
+Fixes:PR665:symbol
+Fixes:PR667:symbol
+Fixes:PR668:symbol
+Fixes:PR669:symbol
+Fixes:VETKA:name
+Fixes:VETKA:symbol
+Fixes:VOLAT:name
+Fixes:VOLAT:symbol
+Fixes:XUDED:name
+Fixes:XUDED:symbol
+Free Text:MMPR MVAS\104:freetext
+Free Text:MMPR MVAS\110:freetext
+Free Text:MMPR MVAS\18:freetext
+Free Text:MMPR MVAS\18:freetext
+Free Text:MMPR MVAS\30:freetext
+Free Text:MMPR MVAS\32:freetext
+Free Text:MMPR MVAS\34:freetext
+Free Text:MMPR MVAS\35:freetext
+Free Text:MMPR MVAS\36:freetext
+Free Text:MMPR MVAS\36:freetext
+Free Text:MMPR MVAS\44:freetext
+Free Text:MMPR MVAS\44:freetext
+Free Text:MMPR MVAS\49:freetext
+Free Text:MMPR MVAS\52:freetext
+Free Text:MMPR MVAS\52:freetext
+Free Text:MMPR MVAS\53:freetext
+Free Text:MMPR MVAS\58:freetext
+Free Text:MMPR MVAS\58:freetext
+Free Text:MMPR MVAS\70:freetext
+Free Text:MMPR MVAS\75:freetext
+Free Text:MMPR MVAS\83:freetext
+Free Text:MMPR MVAS\88:freetext
+Free Text:MMPR MVAS\89:freetext
+Free Text:MMPR MVAS\97:freetext
+Free Text:MMPR MVAS\97:freetext
+Geo:(MVA) PVR:
+Geo:(TMA) PVR:
+Geo:Linea_De_Costa:
+Regions:TMA-PVR:polygon
+Runways:MMEP TEPIC 02-20:centerline
+Runways:MMPR LIC GUSTAVO DIAZ ORDAZ I 04-22:centerline
+Sids:MMPR RNAV BOBDI1B (22):
+Sids:MMPR RNAV LIPEP1D (22):
+Sids:MMPR RNAV VOLAT1D (22):
+Sids:MMPR RNAV XUDED1B (22):
+Stars:MMPR RNAV ESVEL1 (22):
+Stars:MMPR RNAV KEDIX1B (22):
+Stars:MMPR RNAV KEDMA1B (22):
+Stars:MMPR RNAV LIPEP1E (22):
+Stars:MMPR RNAV NOTUP1B (22):
+Stars:MMPR RNAV OBRUG1B (22):
+Stars:MMPR RNP (22):
+VORs:PVR:symbol
+VORs:TNY:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:19.875441:-107.531812:21.741021:-102.621706

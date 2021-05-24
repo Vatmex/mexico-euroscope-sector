@@ -1,0 +1,138 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
+SECTORTITLE:MMFR 2103.sct
+ARTCC boundary:MUFH:
+ARTCC high boundary:MMID:
+Fixes:ALYRE:symbol
+Fixes:APMUS:symbol
+Fixes:BEPOR:symbol
+Fixes:BUBUN:symbol
+Fixes:EBMIS:name
+Fixes:EBMIS:symbol
+Fixes:ELINO:symbol
+Fixes:ERDAM:symbol
+Fixes:HACHO:symbol
+Fixes:HECAT:name
+Fixes:HECAT:symbol
+Fixes:HURIN:symbol
+Fixes:ILUBA:name
+Fixes:ILUBA:symbol
+Fixes:KARIR:name
+Fixes:KARIR:symbol
+Fixes:KAROR:name
+Fixes:KAROR:symbol
+Fixes:LETIS:symbol
+Fixes:NOSAT:name
+Fixes:NOSAT:symbol
+Fixes:NOSUG:name
+Fixes:NOSUG:symbol
+Fixes:NUDAL:name
+Fixes:NUDAL:symbol
+Fixes:NUKAN:name
+Fixes:NUKAN:symbol
+Fixes:ODLAR:symbol
+Fixes:OVGED:symbol
+Fixes:PAULE:name
+Fixes:PAULE:symbol
+Fixes:RIDUG:name
+Fixes:RIDUG:symbol
+Fixes:ROTGI:name
+Fixes:ROTGI:symbol
+Fixes:SCAHA:symbol
+Fixes:SEVKA:symbol
+Fixes:SIGMA:name
+Fixes:SIGMA:symbol
+Fixes:TAKUX:name
+Fixes:TAKUX:symbol
+Fixes:UDGUV:name
+Fixes:UDGUV:symbol
+Fixes:ULBOX:symbol
+Fixes:UN400:symbol
+Fixes:UN402:symbol
+Fixes:UN406:symbol
+Fixes:UN407:symbol
+Fixes:UN408:symbol
+Fixes:UN409:symbol
+Fixes:UN410:symbol
+Fixes:UN412:symbol
+Fixes:UN413:symbol
+Fixes:UN414:symbol
+Fixes:UN415:symbol
+Fixes:UN416:symbol
+Fixes:UN417:symbol
+Fixes:UN418:symbol
+Fixes:UN419:symbol
+Fixes:UN500:symbol
+Fixes:UN511:symbol
+Fixes:UN514:symbol
+Fixes:UN515:symbol
+Fixes:UN518:symbol
+Fixes:UN519:symbol
+Fixes:UN522:symbol
+Fixes:UN523:symbol
+Fixes:UN524:symbol
+Fixes:UN532:symbol
+Fixes:UN545:symbol
+Fixes:URVEN:symbol
+Fixes:VIKSI:name
+Fixes:VIKSI:symbol
+Fixes:VOMAR:name
+Fixes:VOMAR:symbol
+Fixes:XUDUN:name
+Fixes:XUDUN:symbol
+Free Text:MMUN MVAS\14:freetext
+Free Text:MMUN MVAS\14:freetext
+Free Text:MMUN MVAS\20:freetext
+Free Text:MMUN MVAS\30:freetext
+Free Text:MMUN MVAS\40:freetext
+Free Text:MMUN MVAS\60:freetext
+Geo:(MVA) CUN:
+Geo:(TMA) CUN:
+Geo:Linea_De_Costa:
+Regions:CUN/CZM-TMA:polygon
+Runways:MMUN CANCUN INTL 12L-30R:centerline
+Runways:MMUN CANCUN INTL 12R-30L:centerline
+Sids:MMUN RNAV CZM1A (12R):
+Sids:MMUN RNAV CZM1B (12L):
+Sids:MMUN RNAV HECAT1A (12R):
+Sids:MMUN RNAV HECAT1B (12L):
+Sids:MMUN RNAV NOSUG1A (12R):
+Sids:MMUN RNAV NOSUG1B (12L):
+Sids:MMUN RNAV NUDAL1A (12R):
+Sids:MMUN RNAV NUDAL1B (12L):
+Sids:MMUN RNAV NUKAN1A (12R):
+Sids:MMUN RNAV NUKAN1B (12L):
+Sids:MMUN RNAV ROTGI1A (12R):
+Sids:MMUN RNAV ROTGI1B (12L):
+Sids:MMUN RNAV TAKUX1A (12R):
+Sids:MMUN RNAV TAKUX1B (12L):
+Sids:MMUN RNAV UDGUV1A (12R):
+Sids:MMUN RNAV UDGUV1B (12L):
+Stars:MMUN ILS 4 (12L):
+Stars:MMUN ILS 4 (12R):
+Stars:MMUN RNAV ILUBA1E (12L/R):
+Stars:MMUN RNAV ILUBA1F (12L/R):
+Stars:MMUN RNAV NOSAT1B (12L/R):
+Stars:MMUN RNAV PAULE1G (12L/R):
+Stars:MMUN RNAV PAULE1H (12L/R):
+Stars:MMUN RNAV SIGMA1G (12L/R):
+Stars:MMUN RNAV SIGMA1H (12L/R):
+Stars:MMUN RNAV VOMAR1A (12L/R):
+Stars:MMUN RNAV XUDUN1A (12L/R):
+VORs:CUN:symbol
+VORs:CZM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:19.695186:-90.569521:22.312995:-83.679588

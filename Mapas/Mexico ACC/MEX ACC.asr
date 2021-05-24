@@ -18,8 +18,6 @@ ARTCC low boundary:MMZT4:
 ARTCC low boundary:MMZT5:
 ARTCC low boundary:MMZT6:
 ARTCC low boundary:MMZT7:
-Fixes:ABLON:name
-Fixes:ABLON:symbol
 Fixes:AGNID:name
 Fixes:AGNID:symbol
 Fixes:AGUAS:name
@@ -44,8 +42,6 @@ Fixes:ALRUM:name
 Fixes:ALRUM:symbol
 Fixes:ALSAL:name
 Fixes:ALSAL:symbol
-Fixes:ALSUL:name
-Fixes:ALSUL:symbol
 Fixes:ALUEN:name
 Fixes:ALUEN:symbol
 Fixes:ALURU:name
@@ -60,8 +56,6 @@ Fixes:AMEKU:name
 Fixes:AMEKU:symbol
 Fixes:AMIDA:name
 Fixes:AMIDA:symbol
-Fixes:AMILO:name
-Fixes:AMILO:symbol
 Fixes:AMORI:name
 Fixes:AMORI:symbol
 Fixes:AMUKI:name
@@ -140,8 +134,6 @@ Fixes:BOBDI:name
 Fixes:BOBDI:symbol
 Fixes:BOKMO:name
 Fixes:BOKMO:symbol
-Fixes:BONUX:name
-Fixes:BONUX:symbol
 Fixes:BOPEM:name
 Fixes:BOPEM:symbol
 Fixes:BOSAS:name
@@ -160,8 +152,6 @@ Fixes:COFRE:name
 Fixes:COFRE:symbol
 Fixes:COPOS:name
 Fixes:COPOS:symbol
-Fixes:COTZA:name
-Fixes:COTZA:symbol
 Fixes:DAJOR:name
 Fixes:DAJOR:symbol
 Fixes:DARAN:name
@@ -260,8 +250,6 @@ Fixes:ESTIV:name
 Fixes:ESTIV:symbol
 Fixes:ETLEP:name
 Fixes:ETLEP:symbol
-Fixes:EVRA:name
-Fixes:EVRA:symbol
 Fixes:FOBOS:name
 Fixes:FOBOS:symbol
 Fixes:GABAT:name
@@ -612,14 +600,10 @@ Fixes:OVAGO:name
 Fixes:OVAGO:symbol
 Fixes:OVEKO:name
 Fixes:OVEKO:symbol
-Fixes:OVETU:name
-Fixes:OVETU:symbol
 Fixes:OVISO:name
 Fixes:OVISO:symbol
 Fixes:OXALA:name
 Fixes:OXALA:symbol
-Fixes:PACOS:name
-Fixes:PACOS:symbol
 Fixes:PAMAB:name
 Fixes:PAMAB:symbol
 Fixes:PEKSI:name
@@ -656,8 +640,6 @@ Fixes:RADAP:name
 Fixes:RADAP:symbol
 Fixes:RADAS:name
 Fixes:RADAS:symbol
-Fixes:RAJOR:name
-Fixes:RAJOR:symbol
 Fixes:RAKAR:name
 Fixes:RAKAR:symbol
 Fixes:RETOS:name
@@ -672,8 +654,6 @@ Fixes:ROGDI:name
 Fixes:ROGDI:symbol
 Fixes:ROKBI:name
 Fixes:ROKBI:symbol
-Fixes:ROMAN:name
-Fixes:ROMAN:symbol
 Fixes:RUDLO:name
 Fixes:RUDLO:symbol
 Fixes:RUDMA:name
@@ -914,8 +894,6 @@ Fixes:XOSOK:name
 Fixes:XOSOK:symbol
 Fixes:XOSVO:name
 Fixes:XOSVO:symbol
-Fixes:XOTER:name
-Fixes:XOTER:symbol
 Fixes:XOTUG:name
 Fixes:XOTUG:symbol
 Fixes:XOVAB:name
@@ -1301,4 +1279,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:TAAATS2
-WINDOWAREA:16.236079:-109.715141:23.531452:-90.514111
+WINDOWAREA:16.103124:-109.031870:23.755980:-89.790995
