@@ -1,8 +1,8 @@
 DisplayTypeName:TAAATS HMI
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR 2103.sct
-SECTORTITLE:MMFR 2103.sct
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR Mexico FIR.sct
+SECTORTITLE:MMFR Mexico FIR.sct
 ARTCC boundary:KZHU:
 ARTCC boundary:MHCC:
 ARTCC boundary:MMFO:
