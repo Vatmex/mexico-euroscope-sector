@@ -1,0 +1,114 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR Mexico FIR.sct
+SECTORTITLE:MMFR Mexico FIR.sct
+ARTCC high boundary:MMTY:
+Fixes:AGMUM:symbol
+Fixes:ALSEX:symbol
+Fixes:ANADO:symbol
+Fixes:AXILO:symbol
+Fixes:CLOVR:symbol
+Fixes:DAJOR:name
+Fixes:DAJOR:symbol
+Fixes:DEVOE:name
+Fixes:DEVOE:symbol
+Fixes:DOTOR:name
+Fixes:DOTOR:symbol
+Fixes:ELERA:name
+Fixes:ELERA:symbol
+Fixes:ELIKO:symbol
+Fixes:ESRAP:symbol
+Fixes:GRALA:name
+Fixes:GRALA:symbol
+Fixes:GUELF:symbol
+Fixes:HANAY:symbol
+Fixes:ITPIS:name
+Fixes:ITPIS:symbol
+Fixes:KATPO:symbol
+Fixes:KERGA:name
+Fixes:KERGA:symbol
+Fixes:MATUR:name
+Fixes:MATUR:symbol
+Fixes:MIBTA:symbol
+Fixes:MISUL:symbol
+Fixes:MY401:symbol
+Fixes:MY403:symbol
+Fixes:MY408:symbol
+Fixes:MY410:symbol
+Fixes:MY498:symbol
+Fixes:MY501:symbol
+Fixes:MY604:symbol
+Fixes:MY605:symbol
+Fixes:MY606:symbol
+Fixes:NAPNO:symbol
+Fixes:NOTAL:name
+Fixes:NOTAL:symbol
+Fixes:OKOTO:name
+Fixes:OKOTO:symbol
+Fixes:RALLO:symbol
+Fixes:RETOS:name
+Fixes:RETOS:symbol
+Fixes:RIKAN:name
+Fixes:RIKAN:symbol
+Fixes:RUDMA:name
+Fixes:RUDMA:symbol
+Fixes:SESNO:name
+Fixes:SESNO:symbol
+Fixes:SUTOL:name
+Fixes:SUTOL:symbol
+Fixes:TALBI:name
+Fixes:TALBI:symbol
+Fixes:UBVIV:name
+Fixes:UBVIV:symbol
+Fixes:ULAVA:symbol
+Fixes:VETNU:symbol
+Fixes:WICLO:symbol
+Free Text:MMMY MVAS\107:freetext
+Free Text:MMMY MVAS\108:freetext
+Free Text:MMMY MVAS\110:freetext
+Free Text:MMMY MVAS\135:freetext
+Free Text:MMMY MVAS\145:freetext
+Free Text:MMMY MVAS\30:freetext
+Free Text:MMMY MVAS\35:freetext
+Free Text:MMMY MVAS\35:freetext
+Free Text:MMMY MVAS\39:freetext
+Free Text:MMMY MVAS\49:freetext
+Free Text:MMMY MVAS\55:freetext
+Free Text:MMMY MVAS\63:freetext
+Free Text:MMMY MVAS\70:freetext
+Free Text:MMMY MVAS\72:freetext
+Free Text:MMMY MVAS\79:freetext
+Free Text:MMMY MVAS\94:freetext
+Geo:(MVA) MTY:
+Geo:(TMA) MTY:
+Geo:Linea_De_Costa:
+Regions:TMA-MTY:polygon
+Runways:MMMY GEN MARIANO ESCOBEDO INT 11-29:centerline
+Sids:MMMY RNAV DAJOR1B (29):
+Sids:MMMY RNAV DOTOR1B (29):
+Sids:MMMY RNAV GRALA1B (29):
+Sids:MMMY RNAV KERGA1B (29):
+Stars:MMMY ILS 5 (29):
+Stars:MMMY RNAV ITPIS1B (29):
+Stars:MMMY RNAV NOTAL1B (29):
+Stars:MMMY RNAV RETOS1B (29):
+Stars:MMMY RNAV SLW1C (29):
+VORs:ADN:symbol
+VORs:MFE:symbol
+VORs:MTY:symbol
+VORs:REX:symbol
+VORs:SLW:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:24.869814:-102.375632:26.826809:-97.455337
