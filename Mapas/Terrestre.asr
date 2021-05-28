@@ -166,18 +166,29 @@ Free Text:MMMX TWYS\L:freetext
 Free Text:MMMX TWYS\L:freetext
 Free Text:MMMX TWYS\PH:freetext
 Free Text:MMMX TWYS\PH:freetext
-Free Text:MMPR TWYS\A:freetext
-Free Text:MMPR TWYS\A:freetext
-Free Text:MMPR TWYS\A:freetext
-Free Text:MMPR TWYS\B:freetext
-Free Text:MMPR TWYS\C:freetext
-Free Text:MMPR TWYS\D:freetext
-Free Text:MMPR TWYS\D:freetext
-Free Text:MMPR TWYS\E:freetext
-Free Text:MMPR TWYS\E:freetext
-Free Text:MMPR TWYS\F:freetext
-Free Text:MMPR TWYS\G:freetext
-Free Text:MMPR TWYS\G:freetext
+Free Text:MMMY TWYS\A1:freetext
+Free Text:MMMY TWYS\A2:freetext
+Free Text:MMMY TWYS\B:freetext
+Free Text:MMMY TWYS\B:freetext
+Free Text:MMMY TWYS\B:freetext
+Free Text:MMMY TWYS\B:freetext
+Free Text:MMMY TWYS\B:freetext
+Free Text:MMMY TWYS\C:freetext
+Free Text:MMMY TWYS\D:freetext
+Free Text:MMMY TWYS\E:freetext
+Free Text:MMMY TWYS\FGH:freetext
+Free Text:MMPR TWYS\A :freetext
+Free Text:MMPR TWYS\A :freetext
+Free Text:MMPR TWYS\A :freetext
+Free Text:MMPR TWYS\B :freetext
+Free Text:MMPR TWYS\C :freetext
+Free Text:MMPR TWYS\D :freetext
+Free Text:MMPR TWYS\D :freetext
+Free Text:MMPR TWYS\E :freetext
+Free Text:MMPR TWYS\E :freetext
+Free Text:MMPR TWYS\F :freetext
+Free Text:MMPR TWYS\G :freetext
+Free Text:MMPR TWYS\G :freetext
 Free Text:MMTO TWYS\A:freetext
 Free Text:MMTO TWYS\A:freetext
 Free Text:MMTO TWYS\B:freetext
@@ -316,4 +327,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:TAAATS2
-WINDOWAREA:11.689126:-128.308712:34.472006:-71.027803
+WINDOWAREA:16.596408:-119.806049:31.177451:-83.146265
