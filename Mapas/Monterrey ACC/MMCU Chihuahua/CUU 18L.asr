@@ -1,0 +1,122 @@
+DisplayTypeName:TAAATS HMI
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\Documentos\EuroScope\MMFR Mexico\Sector\MMFR Mexico FIR.sct
+SECTORTITLE:MMFR Mexico FIR.sct
+ARTCC high boundary:MMTY:
+Fixes:AMUKI:name
+Fixes:AMUKI:symbol
+Fixes:ANEGI:name
+Fixes:ANEGI:symbol
+Fixes:AXEPA:name
+Fixes:AXEPA:symbol
+Fixes:BOKMO:name
+Fixes:BOKMO:symbol
+Fixes:CU500:symbol
+Fixes:CU501:symbol
+Fixes:CU504:symbol
+Fixes:CU506:symbol
+Fixes:CU507:symbol
+Fixes:CU508:symbol
+Fixes:CU509:symbol
+Fixes:CU511:symbol
+Fixes:CU512:symbol
+Fixes:CU514:symbol
+Fixes:CU515:symbol
+Fixes:CU516:symbol
+Fixes:CU517:symbol
+Fixes:CU518:symbol
+Fixes:CU519:symbol
+Fixes:CU700:symbol
+Fixes:CU701:symbol
+Fixes:CU702:symbol
+Fixes:CU703:symbol
+Fixes:CU704:symbol
+Fixes:CU705:symbol
+Fixes:CU706:symbol
+Fixes:CU707:symbol
+Fixes:CU710:symbol
+Fixes:CU711:symbol
+Fixes:CU801:symbol
+Fixes:CU802:symbol
+Fixes:CU803:symbol
+Fixes:EBLOR:name
+Fixes:EBLOR:symbol
+Fixes:KIPAL:name
+Fixes:KIPAL:symbol
+Fixes:LENEM:name
+Fixes:LENEM:symbol
+Fixes:OMISI:symbol
+Fixes:OTOSO:name
+Fixes:OTOSO:symbol
+Fixes:OXALA:name
+Fixes:OXALA:symbol
+Fixes:PELTA:name
+Fixes:PELTA:symbol
+Fixes:RIBAD:name
+Fixes:RIBAD:symbol
+Fixes:SINLO:name
+Fixes:SINLO:symbol
+Fixes:SUTAR:name
+Fixes:SUTAR:symbol
+Fixes:TATGA:name
+Fixes:TATGA:symbol
+Fixes:UMEDO:name
+Fixes:UMEDO:symbol
+Fixes:VIXER:name
+Fixes:VIXER:symbol
+Fixes:VOMAS:name
+Fixes:VOMAS:symbol
+Free Text:MMCU MVAS\104:freetext
+Free Text:MMCU MVAS\105:freetext
+Free Text:MMCU MVAS\105:freetext
+Free Text:MMCU MVAS\107:freetext
+Free Text:MMCU MVAS\110:freetext
+Free Text:MMCU MVAS\73:freetext
+Free Text:MMCU MVAS\78:freetext
+Free Text:MMCU MVAS\78:freetext
+Free Text:MMCU MVAS\83:freetext
+Free Text:MMCU MVAS\85:freetext
+Free Text:MMCU MVAS\90:freetext
+Free Text:MMCU MVAS\90:freetext
+Free Text:MMCU MVAS\95:freetext
+Free Text:MMCU MVAS\95:freetext
+Geo:(MVA) CUU:
+Geo:(TMA) CUU:
+Geo:Linea_De_Costa:
+Regions:CUU-TMA:polygon
+Runways:MMCU GEN DIV P A ROBERTO FIER 18L-36R:centerline
+Runways:MMCU GEN DIV P A ROBERTO FIER 18R-36L:centerline
+Sids:MMCU RNAV ANEGI1A (18L):
+Sids:MMCU RNAV AXEPA1A (18L):
+Sids:MMCU RNAV BOKMO1A (18L):
+Sids:MMCU RNAV KIPAL1A (18L):
+Sids:MMCU RNAV OTOSO1A (18L):
+Sids:MMCU RNAV OXALA1A (18L):
+Sids:MMCU RNAV SUTAR1A (18L):
+Sids:MMCU RNAV TATGA1A (18L):
+Stars:MMCU RNAV BOKMO1C (18L):
+Stars:MMCU RNAV KIPAL1C (18L):
+Stars:MMCU RNAV LENEM1A (18L):
+Stars:MMCU RNAV OTOSO1C (18L):
+Stars:MMCU RNAV SINLO1A (18L):
+Stars:MMCU RNAV UMEDO1A (18L):
+Stars:MMCU RNAV VIXER1A (18L):
+Stars:MMCU RNAV VOMAS1A (18L):
+Stars:MMCU RNP (18L):
+VORs:CJS:symbol
+VORs:CUU:symbol
+VORs:ELQ:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:TAAATS2
+WINDOWAREA:27.449576:-108.862563:29.895821:-102.712193
