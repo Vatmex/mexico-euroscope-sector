@@ -354,6 +354,10 @@ AG:MEX ARR:129.650:rw.liveatc.net:mmmx_t_app
 AG:BJX APP:119.050:rw.liveatc.net:mmlo_app
 AG:CUN APP:124.700:rw.liveatc.net:mmun_app
 AG:PVR APP:119.000:rw.liveatc.net:mmpr_app
+AG:MTY 2 ACC:125.425:rw.liveatc.net:mmty_2_ctr
+AG:MTY 3 ACC:127.400:rw.liveatc.net:mmty_3_ctr
+AG:MTY 4 ACC:126.400:rw.liveatc.net:mmty_4_ctr
+AG:MTY 5 ACC:125.600:rw.liveatc.net:mmty_5_ctr
 END
 PROFILE
 PROFILE:MMEX_CTR:360:6
@@ -390,6 +394,22 @@ ATIS3:Charts at www.vatmex.com.mx/charts
 ATIS4:
 PROFILE:MMPR_APP:150:5
 ATIS2:Vallarta Approach|Aproximacion Vallarta
+ATIS3:Charts at www.vatmex.com.mx/charts
+ATIS4:
+PROFILE:MMTY_2_CTR:250:6
+ATIS2:Centro Monterrey Sector 2 | Monterrey Center Sector 2
+ATIS3:Charts at www.vatmex.com.mx/charts
+ATIS4:
+PROFILE:MMTY_3_CTR:250:6
+ATIS2:Centro Monterrey Sector 3 | Monterrey Center Sector 3
+ATIS3:Charts at www.vatmex.com.mx/charts
+ATIS4:
+PROFILE:MMTY_4_CTR:250:6
+ATIS2:Centro Monterrey Sector 4 | Monterrey Center Sector 4
+ATIS3:Charts at www.vatmex.com.mx/charts
+ATIS4:
+PROFILE:MMTY_5_CTR:250:6
+ATIS2:Centro Monterrey Sector 5 | Monterrey Center Sector 5
 ATIS3:Charts at www.vatmex.com.mx/charts
 ATIS4:
 END
